@@ -1,0 +1,1 @@
+Welcome to my Statistics learning journey repository! In this space, I am committed to building a solid foundation in statistics to deepen my understanding of data science and its underlying principles.
